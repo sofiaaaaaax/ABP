@@ -22,7 +22,8 @@ Este proyecto busca colaboración con el **Servicio Geológico Colombiano (SGC)*
 ## Autores
 - Sofía López Holguín:  
 - Mateo Lastra: 
-- Juan Manuel Londoño: 
+- Juan Manuel Londoño:
+  
 Profesor: Jonathan Berthel Castro
 
 ## Universidad
