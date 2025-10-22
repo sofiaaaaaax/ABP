@@ -24,7 +24,7 @@ Este proyecto busca colaboración con el **Servicio Geológico Colombiano (SGC)*
 - Mateo Lastra: 
 - Juan Manuel Londoño:
   
-Profesor: Jonathan Berthel Castro
+**Profesor:** Jonathan Berthel Castro
 
 ## Universidad
 **Universidad Unilasallista**  
