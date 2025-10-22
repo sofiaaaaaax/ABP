@@ -11,7 +11,9 @@ El objetivo es crear una página web tipo *Wikipedia* que muestre información e
 
 ## Estructura del repositorio
 /codigo → Archivos del sitio web
+
 /ABP documentos → Informes, DOFA, diagramas, manuales, etc.
+
 /recursos → Imágenes, logos, capturas
 
 ## Colaboraciones
