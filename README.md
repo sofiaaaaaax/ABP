@@ -14,7 +14,7 @@ El objetivo es crear una página web interactiva que muestre información en tie
 
 /ABP documentos → Informes, DOFA, diagramas, manuales, etc.
 
-/recursos → Imágenes, logos, capturas
+/recursos → Diagrama de clase
 
 ## Colaboraciones
 Este proyecto busca colaboración con el **Servicio Geológico Colombiano (SGC)** para mejorar la accesibilidad a informacion mas facil, visualización y difusión pública de los datos sísmicos.
