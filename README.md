@@ -10,7 +10,7 @@ El objetivo es crear una página web tipo *Wikipedia* que muestre información e
 - Interfaz interactiva construida con **HTML**, **CSS**, y **Leaflet.js**.
 
 ## Estructura del repositorio
-/codigo → Archivos del sitio web
+/ABP.SISMOS.CODIGO → Archivos del sitio web
 
 /ABP documentos → Informes, DOFA, diagramas, manuales, etc.
 
