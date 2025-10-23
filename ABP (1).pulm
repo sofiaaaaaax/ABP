@@ -1,1 +1,5 @@
 
+git pull origin main        
+git rm ABP (1).pulm   
+git commit -m "Eliminé archivo innecesario"
+git push origin main        
