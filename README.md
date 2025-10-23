@@ -20,9 +20,9 @@ El objetivo es crear una página web interactiva que muestre información en tie
 Este proyecto busca colaboración con el **Servicio Geológico Colombiano (SGC)** para mejorar la accesibilidad a informacion mas facil, visualización y difusión pública de los datos sísmicos.
 
 ## Autores
-- Sofía López Holguín:  
-- Mateo Lastra: 
-- Juan Manuel Londoño:
+- Sofía López Holguín: Desarrolladora Frontend y Backend
+- Mateo Lastra: Desarrollador Full Stack
+- Juan Manuel Londoño: Investigador
   
 **Profesor:** Jonathan Berthel Castro
 
