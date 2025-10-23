@@ -1,6 +1,6 @@
 # Proyecto ABP – Mapa Interactivo de Terremotos en Colombia
 
-Este proyecto forma parte del curso de **Programación y Diseño Gráfico** de la Universidad Unilasallista.  
+Este proyecto forma parte del curso de **Programación orientada a objetos y Diseño y edicion Gráfica** de la Universidad Unilasallista.  
 El objetivo es crear una página web interactiva que muestre información en tiempo real e histórica sobre terremotos en Colombia.
 
 ## Funcionalidades principales
